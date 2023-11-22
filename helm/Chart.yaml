@@ -1,0 +1,6 @@
+# metadata of our application
+apiVersion: v2
+name: catalogue
+version: 0.0.1 # This is the chart version
+description: This is the helm chart of nginx
+appVersion: "1.0.0" #this version belongs to application
